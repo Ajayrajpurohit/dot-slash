@@ -15,6 +15,4 @@ We will use the data from folllowing government websites:-
 http://www.censusindia.gov.in/2011census/HLO/HL_PCA/Houselisting-housing-HARYANA.html
 http://www.censusindia.gov.in/DigitalLibrary/MFTableSeries.aspx
 
-The bhiwani.csv file contains the file structure in the form of table for building the classifier model and listing out factors for the development of the rural areas.
-
-The result.csv file contains the file structure of the output of the analysis.
+The bhiwani.csv file contains the file structure in the form of table for building the classifier model and its column are the factors that if focussed on can improve the living conditions of the rural areas.
